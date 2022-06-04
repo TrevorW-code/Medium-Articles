@@ -16,7 +16,7 @@ async def consume(hostname: str, port: int) -> None:
 def log_message(message: str) -> None:
     logging.info(f"Message: {message}")
     
-if __name__ = "__main__":
+if __name__ == "__main__":
     loop = asyncio.get_event_loop()
     loop.run_until_complete(consume(hostname="localhost",port=4000))
     loop.run_forever()
