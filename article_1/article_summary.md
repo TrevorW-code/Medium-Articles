@@ -1,3 +1,3 @@
-#[How To Create a WebSocket in Python](https://betterprogramming.pub/how-to-create-a-websocket-in-python-b68d65dbd549)
+# [How To Create a WebSocket in Python](https://betterprogramming.pub/how-to-create-a-websocket-in-python-b68d65dbd549)
 
 This was a really cool article. I have been learning a lot about websockets because, at my job, I have been leading the charge on integrating two messaging platforms. I've been a little stressed because I need to redirect traffic from one platform to another, which is a pretty hefty task for a Data Scientist/Machine Learning background. Totally out of my comfort zone, but this article really helped me understand async requests, coroutines, and websockets. Defintely going to be reading more of this guys stuff.
