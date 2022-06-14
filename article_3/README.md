@@ -1,0 +1,3 @@
+# [The Beginner’s Guide to Selenium With Python](https://betterprogramming.pub/the-beginners-guide-to-selenium-with-python-cde1937585c6)
+
+This was definitely one of the cooler medium articles I have read. Selenium is a really cool tool, and being able to automate a ton of tasks makes me feel pretty cool. Messing around with some of the commands in this tutorial and some from the docs, I made a really simple bot that searches on Aritzia for skirts (for my girlfriend). I have wayyy too many imports, I was just too lazy to delete the ones I didn't need from testing earlier. I am excited to use this skill on an article I am hopefully writing soon. 
