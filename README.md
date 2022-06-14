@@ -8,6 +8,9 @@ After reading several articles from Medium, Towards Data Science and Better Prog
 - [Article 2 - Intro to Webhooks and How to Receive them with Python](https://github.com/TrevorW-code/Medium-Articles/tree/main/article_2)
 > This was also a great article. It helped me figure out the difference between webhooks and websockets, because there is a difference! From what I understand, webhook are essentially "Let me know when you get/have this", which seems like a way better way of requesting data than polling. I'm excited to see how I can use this in some of my upcoming projects.
 
+- [Article 3 - The Beginner’s Guide to Selenium With Python](https://github.com/TrevorW-code/Medium-Articles/tree/main/article_3)
+> Learning the basics of Selenium was really great. I can totally see the utility of this. From unittesting web apps to making bots (what I did for the article), Selenium is really pleasant to work with, and I am excited to start working with it more and more. 
+
 
 ### Queue
 1. [Learn about Websockets and Socket.IO. Build a simple Slack clone (Node JS) — Part 1](https://danielatuma.medium.com/learn-about-websockets-and-socket-io-build-a-simple-slack-clone-node-js-part-1-6ff4ecca3323)
