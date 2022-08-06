@@ -11,6 +11,8 @@ After reading several articles from Medium, Towards Data Science and Better Prog
 - [Article 3 - The Beginner’s Guide to Selenium With Python](https://github.com/TrevorW-code/Medium-Articles/tree/main/article_3)
 > Learning the basics of Selenium was really great. I can totally see the utility of this. From unittesting web apps to making bots (what I did for the article), Selenium is really pleasant to work with, and I am excited to start working with it more and more. 
 
+- [Article 4 - How to Build Simple Recommender Systems in Python](https://github.com/TrevorW-code/Medium-Articles/tree/main/article_4)
+> Not quite done yet, but will be finished soon. 
 
 ### Queue
 1. [Learn about Websockets and Socket.IO. Build a simple Slack clone (Node JS) — Part 1](https://danielatuma.medium.com/learn-about-websockets-and-socket-io-build-a-simple-slack-clone-node-js-part-1-6ff4ecca3323)
