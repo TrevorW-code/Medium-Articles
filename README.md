@@ -22,3 +22,5 @@ After reading several articles from Medium, Towards Data Science and Better Prog
 5. [Natural Language Processing is Fun!](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 6. [Fine-Tuning Bert for Tweets Classification ft. Hugging Face](https://medium.com/mlearning-ai/fine-tuning-bert-for-tweets-classification-ft-hugging-face-8afebadd5dbf)
 7. [GANs: Generative Adversarial Networks — An Advanced Solution for Data Generation](https://towardsdatascience.com/gans-generative-adversarial-networks-an-advanced-solution-for-data-generation-2ac9756a8a99)
+8. [Beyond the Basics: Reinforcement Learning with Jax — Part I: Introduction and Core Concepts](https://towardsdatascience.com/beyond-the-basics-reinforcement-learning-with-jax-part-i-introduction-and-core-concepts-4f85f3478f5)
+9. [10 Exciting Project Ideas Using Large Language Models (LLMs) for Your Portfolio](https://towardsdatascience.com/10-exciting-project-ideas-using-large-language-models-llms-for-your-portfolio-970b7ab4cf9e)
